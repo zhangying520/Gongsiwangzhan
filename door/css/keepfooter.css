@@ -1,0 +1,14 @@
+html,
+body{
+    height:100%;
+}
+body{
+    min-height:100%;
+    position: relative;
+    background-color: #eaeaea;
+}
+.footer{
+    width:100%;
+    position: absolute;
+    bottom:0;
+}
