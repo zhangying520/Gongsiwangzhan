@@ -1,0 +1,46 @@
+ul{
+    margin:0;
+    padding:0;
+}
+li{
+    list-style-type:none;
+}
+.tab-ul{
+    /*position: relative;*/
+}
+.tab-ul>li{
+    /*position: absolute;*/
+}
+
+/*ul列表*/
+.ul-list{
+    width:100%;
+}
+.ul-list>li{
+    border-bottom: 1px dotted #bbb;
+    width:100%;
+    padding: 20px 0 25px;
+    margin-bottom: 10px;
+    clear: both;
+    overflow: hidden;
+}
+.ul-list>li>.list-img{
+    display: inline-block;
+    float: left;
+    width: 130px;
+    margin-right: 15px;
+}
+.ul-list>li>.list-text{
+    float: left;
+}
+.ul-list>li>.list-text>h3{
+    margin:0;
+    padding:0;
+}.ul-list>li>.list-text>p{
+     margin:0;
+     padding: 5px 0;
+     color: #999;
+     text-indent:0;
+
+ }
+
