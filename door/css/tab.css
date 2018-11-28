@@ -41,6 +41,11 @@ li{
      padding: 5px 0;
      color: #999;
      text-indent:0;
-
  }
+.ul-list>li>a>.list-img {
+    display: inline-block;
+    float: left;
+    width: 130px;
+    margin-right: 15px;
+}
 
